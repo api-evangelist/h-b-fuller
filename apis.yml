@@ -2,7 +2,7 @@ aid: h-b-fuller
 url: https://raw.githubusercontent.com/api-evangelist/h-b-fuller/refs/heads/main/apis.yml
 name: H.B. Fuller Company
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Adhesives
   - Sealants
@@ -19,7 +19,7 @@ apis:
       - Adhesives
       - Sealants
       - Chemical
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.hbfuller.com
     humanURL: https://developer.hbfuller.com
     properties:
