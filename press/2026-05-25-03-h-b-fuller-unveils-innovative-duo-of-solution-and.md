@@ -1,7 +1,9 @@
 ---
 title: H.B. Fuller Unveils Innovative Duo of Solution and ...
 url: https://www.prnewswire.com/news-releases/hb-fuller-unveils-innovative-duo-of-solution-and-technology-services-in-eimea-300913455.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"H.B. Fuller" press release artificial intelligence'
 position: 3
 source: serpapi-google

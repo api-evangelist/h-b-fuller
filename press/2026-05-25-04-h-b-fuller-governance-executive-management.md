@@ -1,7 +1,9 @@
 ---
 title: H.B. Fuller - Governance - Executive Management
 url: https://investors.hbfuller.com/governance/executive-management/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"H.B. Fuller" press release artificial intelligence'
 position: 4
 source: serpapi-google
