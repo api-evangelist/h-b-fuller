@@ -118,10 +118,8 @@ apis:
 unitEconomics:
   - name: Cost per Partner Integration
     metric: billed_cost / active_partners
-    target: TBD
   - name: Cost per Order Transaction
     metric: billed_cost / orders_submitted
-    target: TBD
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
